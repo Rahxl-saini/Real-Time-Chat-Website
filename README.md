@@ -1,7 +1,7 @@
 # MERN Stack Project: Real Time Chat Website
 
 ### Project Demo  
-[Live App Link](https://chatterbox-2gjn.onrender.com/)  
+[Live App Link] https://real-time-chat-website-k63b.onrender.com 
 
 ## Features  
 
